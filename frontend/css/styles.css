@@ -1,0 +1,43 @@
+.voffset2 {
+    margin-top : 2%;
+}
+
+.voffset5 {
+    margin-top : 5%;
+}
+
+.voffset10 {
+    margin-top : 10%;
+}
+
+.voffset15 {
+    margin-top : 15%;
+}
+
+.voffset30 {
+    margin-top : 30%;
+}
+
+.voffset40 {
+    margin-top : 40%;
+}
+
+.voffset60 {
+    margin-top : 60%;
+}
+
+.voffset80 {
+    margin-top : 80%;
+}
+
+.btn-book-remove, .btn-author-remove {
+    margin-left : 20px;
+}
+
+#bookEdit, #authorEdit {
+    display : none;
+}
+
+.book-description, .authorBooksList {
+    display : none;
+}
